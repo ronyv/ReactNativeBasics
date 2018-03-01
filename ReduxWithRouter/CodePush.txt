@@ -1,0 +1,10 @@
+Reference : https://medium.com/@rajanmaharjan/get-started-with-wonderful-technology-d838aafdc2d3
+
+#1. Install the CLI
+npm install -g code-push-cli
+
+# Register for an account via github or email
+code-push register
+
+# Register your app. We call it AwesomeApp.
+code-push app add AwesomeApp
