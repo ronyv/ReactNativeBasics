@@ -4,6 +4,8 @@ Thanks to www.npmjs.com for providing enough resources to complete this project.
 
 This is one project that i developed as part of learning React Native developement. So i've given more importance to the functional implementations rather than concentrating on building good looking UI. 
 
+# You can download the Apk file directly from the following dropbox url : https://www.dropbox.com/s/99e9j0ksqx1ax3m/ReduxWithRouter_V1.apk?dl=0 
+
 Some of the major features implemented with this project are : 
 
 1. Redux Implementation with Thunk Middleware.
@@ -14,7 +16,7 @@ Some of the major features implemented with this project are :
 6. Dygraphs implementation of line graphs with dynamic x and y axis values based on zoom.
 
 
-Screenshots : 
+# Screenshots : 
 
 Menu List : 
 
